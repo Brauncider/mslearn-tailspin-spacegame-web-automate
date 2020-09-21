@@ -11,7 +11,7 @@ provider "azurerm" {
 }
 
 variable "resource_group_name" {
-  default = "DevOpsAZ400"
+  default = "DevOpsAZ400bis"
   description = "The name of the resource group"
 }
 
